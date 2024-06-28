@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.2.0
+
+### Minor Changes
+
+- Add support for Remix SPA Mode ([#3580](https://github.com/clerk/javascript/pull/3580)) by [@anagstef](https://github.com/anagstef)
+
 ## 4.1.3
 
 ### Patch Changes
